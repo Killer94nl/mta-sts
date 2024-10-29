@@ -2,4 +2,3 @@ version: STSv1
 mode: enforce
 mx: radouanebos-nl.mail.protection.outlook.com
 max_age: 1209600
-
